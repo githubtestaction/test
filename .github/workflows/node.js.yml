@@ -50,4 +50,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/matthiasdev99/test/tic-tac-toe:lastest
+        tags: ghcr.io/githubtestaction/test/tic-tac-toe:lastest
