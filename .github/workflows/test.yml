@@ -59,4 +59,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ci-cd-dhbw-hdh-pschoeppner/half-byte/tic-tac-toe:${{ env.PROJECT_VERSION }}
+          tags: ghcr.io/githubtestaction/test/tic-tac-toe:${{ env.PROJECT_VERSION }}
